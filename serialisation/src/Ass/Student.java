@@ -3,6 +3,7 @@ package Ass;
 import java.io.Serializable;
 
 public class Student implements Serializable {
+
 	private int Rno;
 	private String name;
 	private double marks;
